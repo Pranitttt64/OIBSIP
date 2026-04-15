@@ -126,8 +126,8 @@ Through this internship, I strengthened my understanding of:
 **Pranit Saundankar**  
 AI & Data Science Student  
 
-🔗 LinkedIn: [https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME](https://www.linkedin.com/in/pranit-saundankar-68532328b/)  
-💻 GitHub: [https://github.com/YOUR-GITHUB-USERNAME](https://github.com/Pranitttt64)  
+🔗 LinkedIn: [https://www.linkedin.com/in/pranit-saundankar-68532328b/](https://www.linkedin.com/in/pranit-saundankar-68532328b/)  
+💻 GitHub: [https://github.com/Pranitttt64](https://github.com/Pranitttt64)  
 
 ---
 
